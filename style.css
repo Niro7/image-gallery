@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 .navbar {
   background-color: rgb(15, 15, 15);
   border-bottom: 2px solid #ffc107;
